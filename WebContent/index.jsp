@@ -10,7 +10,7 @@
 
 <div class="container" align="center">
 
-<h1 style="color: maroon;">  ${name}</h1>
+<h1 style="color: maroon;">  ${name}</h1> 
 
 <h1 style="color: green;"> JSP CRUD !!!</h1>
 
@@ -24,3 +24,4 @@
 </div>
 
 <hr>
+<a href="Quiz.jsp">Quiz For a Student !!</a><br>
